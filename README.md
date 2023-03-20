@@ -17,7 +17,7 @@ Virtual Tourist Token (VT) is an BEP20 standard token that allows users to engag
 
 ## Smart Contract Details
 
-- Contract Address: 0xEd66eC1acb7Dbd0C01cCCfF33E3fF1F423057C21 
+- Contract Address: [0xEd66eC1acb7Dbd0C01cCCfF33E3fF1F423057C21](https://bscscan.com/address/0xed66ec1acb7dbd0c01cccff33e3ff1f423057c21)
 - Compiler Version: 0.8.4
 - OpenZeppelin Version: v4.4.1
 
